@@ -1,0 +1,20 @@
+,invoice_id,branch,city,customer_type,age,gender,product_line,unit_price,total,date,payment_method,rating
+0,750-67-8428,D,San Jose,Member,40,Female,Health and beauty,74.69,548.9715,2019-01-05,Ewallet,9.1
+1,226-31-3081,A,Philadelphia,Normal,29,Female,Electronic accessories,15.28,80.22,2019-03-08,Cash,9.6
+2,631-41-3108,A,Phoenix,Normal,28,Male,Home and lifestyle,46.33,340.5255,2019-03-03,Credit card,7.4
+3,123-19-1176,B,New York,Member,27,Male,Health and beauty,58.22,489.048,2019-01-27,Ewallet,8.4
+4,373-73-7910,A,Chicago,Normal,52,Male,Sports and travel,86.31,634.3785,2019-02-08,Ewallet,5.3
+5,699-14-3026,B,Philadelphia,Normal,54,Male,Electronic accessories,85.39,627.6165,2019-03-25,Ewallet,4.1
+6,355-53-5943,C,Los Angeles,Member,34,Female,Electronic accessories,68.84,433.692,2019-02-25,Ewallet,5.8
+7,315-22-5665,D,Philadelphia,Normal,33,Female,Home and lifestyle,73.56,772.38,2019-02-24,Ewallet,8.0
+8,665-32-9167,A,New York,Member,66,Female,Health and beauty,36.26,76.146,2019-01-10,Credit card,7.2
+9,692-92-5582,A,Philadelphia,Member,56,Female,Food and beverages,54.84,172.746,2019-02-20,Credit card,5.9
+10,351-62-0822,D,Chicago,Member,60,Female,Fashion accessories,14.48,60.816,2019-02-06,Ewallet,4.5
+11,529-56-3974,A,Dallas,Member,46,Male,Electronic accessories,25.51,107.142,2019-03-09,Cash,6.8
+12,365-64-0515,C,New York,Normal,55,Female,Electronic accessories,46.95,246.4875,2019-02-12,Ewallet,7.1
+13,252-56-2699,B,Chicago,Normal,35,Male,Food and beverages,43.19,453.495,2019-02-07,Ewallet,8.2
+14,829-34-3910,C,San Diego,Normal,24,Female,Health and beauty,71.38,749.49,2019-03-29,Cash,5.7
+15,299-46-1805,B,New York,Member,39,Female,Sports and travel,93.72,590.436,2019-01-15,Cash,4.5
+16,656-95-9349,B,Los Angeles,Member,46,Female,Health and beauty,68.93,506.6355,2019-03-11,Credit card,4.6
+17,765-26-6951,C,Houston,Normal,33,Male,Sports and travel,72.61,457.443,2019-01-01,Credit card,6.9
+18,329-62-1586,C,Phoenix,Normal,54,Male,Food and beverages,54.67,172.2105,2019-01-21,Credit card,8.6
