@@ -1,0 +1,20 @@
+invoice_id,branch,city,total,date,payment_method
+315-22-5665,D,Philadelphia,772.38,2019-02-24,Ewallet
+829-34-3910,C,San Diego,749.49,2019-03-29,Cash
+373-73-7910,A,Chicago,634.3785,2019-02-08,Ewallet
+699-14-3026,B,Philadelphia,627.6165,2019-03-25,Ewallet
+299-46-1805,B,New York,590.436,2019-01-15,Cash
+750-67-8428,D,San Jose,548.9715,2019-01-05,Ewallet
+656-95-9349,B,Los Angeles,506.6355,2019-03-11,Credit card
+123-19-1176,B,New York,489.048,2019-01-27,Ewallet
+765-26-6951,C,Houston,457.443,2019-01-01,Credit card
+252-56-2699,B,Chicago,453.495,2019-02-07,Ewallet
+355-53-5943,C,Los Angeles,433.692,2019-02-25,Ewallet
+631-41-3108,A,Phoenix,340.5255,2019-03-03,Credit card
+365-64-0515,C,New York,246.4875,2019-02-12,Ewallet
+692-92-5582,A,Philadelphia,172.746,2019-02-20,Credit card
+329-62-1586,C,Phoenix,172.2105,2019-01-21,Credit card
+529-56-3974,A,Dallas,107.142,2019-03-09,Cash
+226-31-3081,A,Philadelphia,80.22,2019-03-08,Cash
+665-32-9167,A,New York,76.146,2019-01-10,Credit card
+351-62-0822,D,Chicago,60.816,2019-02-06,Ewallet
